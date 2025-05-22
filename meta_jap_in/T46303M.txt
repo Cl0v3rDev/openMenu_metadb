@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=145
+accessories=VGA+MOD+MS+KEY
+network=0
+genre=Simulation
+description=In Neon Genesis Evangelion - Ayanami Rei Ikusei Keikaku, the player takes on the role of a NERV officer who has just been assigned to Tokyo-3. Upon meeting with Commander Gendo Ikari, he is charged with taking care of the First Child, the mysterious Evangelion pilot Rei Ayanami.
+padding0=0
