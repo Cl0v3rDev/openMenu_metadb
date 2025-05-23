@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA+MOD+KEY+MS+ETH
+network=3
+genre=Action+Adventure+Simulation
+description=A sandbox block game inspired by other such sandbox block games, ClassiCube brings you back to the days of 2009 where one block game ruled them all.
+padding0=0

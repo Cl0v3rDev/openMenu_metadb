@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+KEY
+network=0
+genre=Action+Adventure+Platformer
+description=You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village you discover that the once-carefree Mimigas are in danger at the hands of a maniacal scientist. Take control and learn the origins of this world’s power, stop the delusional villain and save the Mimiga!
+padding0=0

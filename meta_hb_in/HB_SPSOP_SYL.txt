@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+ETH
+network=3
+genre=0
+description=Sylverant PSO Patcher is a program designed to be used as a boot-disc for the Sega Dreamcast to patch various aspects of the game Phantasy Star Online. The individual items patched depend on the version of the game, which is detected automatically at run-time.
+padding0=0
