@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+KEY+JUMP
+network=1
+genre=0
+description=Web Browser 2.62 is a web browser for North American Sega Dreamcasts, and an update to Web Browser 2.0. This is a less common version which includes demos of StarLancer, Speed Devils Online, Typing of the Dead and 4x4 Evo on the disc.
+padding0=0

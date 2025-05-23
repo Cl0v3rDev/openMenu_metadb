@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+KEY+MS+ETH+JUMP
+network=3
+genre=0
+description=Internet Browser V3.0 is a web browser for North American Sega Dreamcasts, and an update to Web Browser 2.62.
+padding0=0

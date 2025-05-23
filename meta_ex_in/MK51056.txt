@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+KEY+JUMP
+network=1
+genre=0
+description=Web Browser 2.0 is a web browser for North American Sega Dreamcasts, and an update to Web Browser. It was released around E3 2000 and also includes Sega Swirl as a full game on the disc.
+padding0=0

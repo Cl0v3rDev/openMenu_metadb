@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+KEY+JUMP
+network=1
+genre=0
+description=The aptly named Web Browser is a web browser for the Sega Dreamcast developed by PlanetWeb. It was designed for the North American market; Japan and PAL regions were given Dream Passport or Dreamkey discs, respectively, for this purpose instead.
+padding0=0
